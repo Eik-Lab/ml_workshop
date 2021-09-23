@@ -3,7 +3,7 @@ Varighet: 3h
 Mål: Kunne lage dine egen modell for å klassifisere dyr  
 Datasett: [Dataset containing 28 000 animals](https://www.kaggle.com/alessiocorrado99/animals10)  
 <center>
-<a href="https://colab.research.google.com/github/Eik-Lab/ml_workshop/blob/main/klassifisering_av_dyr.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/uzaaft/ml_workshop/blob/main/ml_workshop.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </center>
 
 ## Oppgaven 
