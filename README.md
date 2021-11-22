@@ -30,12 +30,6 @@ Hvis det blir noe tid igjen:
 * Gjennomgang av kunst og Maskin Læring (GAN) (5-10 min)
 * Styletransfer i [nettleseren](https://reiinakano.com/arbitrary-image-stylization-tfjs/) (Rest)
 * 
-## Usage of hours
-TBD
+## Further work  
+If the workshop made you want to further explore the world of machine learning there are a couple of paths one can take:
 
-## What do we need(purchases):
-Enkel Servering
-Room 
-
-## Other information
-Studentene trenger kun en pc som kan kjøre en nettleser, og en google bruker.
